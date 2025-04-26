@@ -1,7 +1,7 @@
 document.addEventListener('DOMContentLoaded', () => {
     const videoPlayer = document.getElementById('animationPlayer');
     const videos = [
-        'VID_20250425_113153.mp4',
+        'video1.mp4',
         'video2.mp4',
         'video3.mp4',
         'video4.mp4'
